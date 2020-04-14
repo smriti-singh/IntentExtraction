@@ -7,7 +7,7 @@ Realizing the importance of this corpus of customer textual resources, enterpris
 *performance in terms of quality, 
 *operational efficiency, and revenue. 
 
-![A test image](C:\Users\Smriti\Desktop\Misc Data Science\TCS Hackathon\all tc hackathon\input content type.PNG)
+![A test image](input content type.PNG)
 
 ## APPROACH TO SOLVE
 The idea is to recognize concrete action items from voice of customers from millions of textual comments and feedback.
