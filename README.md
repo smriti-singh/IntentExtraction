@@ -8,7 +8,7 @@ Realizing the importance of this corpus of customer textual resources, enterpris
 *operational efficiency, and revenue. 
 
 ![A test image](input content type.PNG)
-![Input](input content type.PNG?raw=true "Input")
+![Input](./input content type.PNG?raw=true "Input")
 
 ## APPROACH TO SOLVE
 The idea is to recognize concrete action items from voice of customers from millions of textual comments and feedback.
