@@ -7,8 +7,9 @@ Realizing the importance of this corpus of customer textual resources, enterpris
 *performance in terms of quality, 
 *operational efficiency, and revenue. 
 
-![A test image](input content type.PNG)
-![Input](./input content type.PNG?raw=true "Input")
+
+![Input](https://raw.githubusercontent.com/smriti-singh/smriti-singh-IntentExtraction/master/input%20content%20type.PNG)
+
 
 ## APPROACH TO SOLVE
 The idea is to recognize concrete action items from voice of customers from millions of textual comments and feedback.
@@ -20,8 +21,15 @@ The idea is to recognize concrete action items from voice of customers from mill
 *The next step after reducing the text is to cluster the similar customer concerns together. For this, Document2Vec Neural Network Model is used to cluster the similar intents together. 
 *Finally, the result is then visualized to view top 5 customer concerns from millions of customer feedback.	
 
+![Method](https://raw.githubusercontent.com/smriti-singh/smriti-singh-IntentExtraction/master/built%20python%20engine.PNG)
+
+
+
 ## WIDE APPLICATIONS OF SOLUTION
 
 The result from the Engine built can be consumed as Actionable Insights for a domain, can be used for Trend Analysis of Popularity among Customers overtime, as an important signal channel for Service/Product Improvement.
 
 (For more details, please see the powerpoint. For implementation, please see the python code, output is shown in the powerpoint, code to generate is mentioned.)
+
+
+![Output](https://raw.githubusercontent.com/smriti-singh/smriti-singh-IntentExtraction/master/vizualized%20result%20produced.PNG)
